@@ -12,5 +12,19 @@
 
 <details>
 <summary>Solution</summary>
-TO BE WRITTEN
+Each couple of number represent a letter in tap code
+
+Using the table
+
+```
+A B C/K D E
+F G H   I J
+L M N   O P
+Q R S   T U
+V W X   Y Z
+```
+
+the numbers read 'ONEYEAR'
+
+Thus Iroha can practice tap dancing for 'one year'
 </details>

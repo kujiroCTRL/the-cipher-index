@@ -12,5 +12,7 @@
 
 <details>
 <summary>Solution</summary>
-TO BE WRITTEN
+In the Japanese sign language the hand gestures read 'れい' or 're i' in hiragana
+
+'re i' read together mean 0, thus the mentioned friend got a 0 (reason being he is deaf)
 </details>

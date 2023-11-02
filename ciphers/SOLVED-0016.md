@@ -12,5 +12,21 @@
 
 <details>
 <summary>Solution</summary>
-TO BE WRITTEN
+In morse the cells read
+
+```
+TRUE	CERTAIN	UNTRUE
+IS	YES	FALSE
+NO	ISNT	CORRECT
+```
+
+Labeling 'O' the cells containing affirmative words and 'X' the cells containing a negation we get
+
+```
+O O X 
+O O X
+X X O
+```
+
+The winning "player" is 'O', thus the answer is 'true'
 </details>

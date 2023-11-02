@@ -12,5 +12,9 @@
 
 <details>
 <summary>Solution</summary>
-TO BE WRITTEN
+The number of straight lines in each digits are respectively 1, 2, 3, 5 and 8
+
+These numbers follow the Fibonacci series' recurrence where you sum the previous 2 numbers to get the next one
+
+The person that lost the piece of paper is thus Fibonacci
 </details>
