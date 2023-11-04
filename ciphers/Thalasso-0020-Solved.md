@@ -1,5 +1,6 @@
 |Field|Value|
 |---|---|
+|**Name**|Code #01 from the controllist whale|
 |**Author**|Thalasso (Casa)|
 |**Difficulty**|⭐⭐⭐⭐|
 |**Solved**|Yes|
