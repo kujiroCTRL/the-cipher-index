@@ -1,5 +1,6 @@
 |Field|Value|
 |---|---|
+|**Name**|Prof W's cipher homework #1|
 |**Author**|Wattia|
 |**Difficulty**|⭐⭐|
 |**Solved**|Yes|

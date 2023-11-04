@@ -1,5 +1,6 @@
 |Field|Value|
 |---|---|
+|**Name**|Bird's Weekly Puzzle #3|
 |**Author**|Illyngo (Bird)|
 |**Difficulty**|⭐⭐⭐|
 |**Solved**|No|

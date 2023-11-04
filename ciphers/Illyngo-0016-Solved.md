@@ -1,32 +1,24 @@
 |Field|Value|
 |---|---|
-|**Author**|Illyngo (Bird)|
+|Author**|Illyngo (Bird)|
 |**Difficulty**|⭐|
 |**Solved**|Yes|
-|**Original**|https://discord.com/channels/1042924100760391710/1152381021644406905|
+|**Original**|https://discord.com/channels/1042924100760391710/1110625554476040323/1151332694958014544|
 
 **Prompt**
-> Is this true or false?
-> 
-> ![](../attachments/IMG_2355.png) 
+> What does this say?
+>
+> ![](../attachments/IMG_2351.jpg) 
 
 <details>
 <summary>Solution</summary>
-In morse the cells read
+The placed objects are nuts and bolts
 
-```
-TRUE	CERTAIN	UNTRUE
-IS	YES	FALSE
-NO	ISNT	CORRECT
-```
+Some of the bolts are either placed vertically or horizontally
 
-Labeling 'O' the cells containing affirmative words and 'X' the cells containing a negation we get
+Viewing the image from the top the upstanding bolts and the nuts would look like dots whereas the bolts lying down would look like dashes
 
-```
-O O X 
-O O X
-X X O
-```
+The groups of nuts and bolts can be read in morse as 'hagotem', so 'ha got'em'
 
-The winning "player" is 'O', thus the answer is 'true'
+The solution probably refers to the use of (these) nuts to make the code 
 </details>

@@ -41,3 +41,7 @@ On
 The file names are for the most part the same as the ones loaded on the server, exception made for homonymous files
 
 For compressed files you can also find a subfolder containing the extracted files
+
+## `leaky-poker/`
+In `leaky-poker/` you can find the designs for the Cipher Academy's private discord server's very own "Leaky poker" as well as the original manga's designs for reference
+

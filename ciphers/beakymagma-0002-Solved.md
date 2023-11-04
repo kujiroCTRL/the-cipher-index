@@ -1,7 +1,6 @@
 |Field|Value|
 |---|---|
 |**Author**|beakymagma|
-|**Difficulty**|???|
 |**Solved**|Yes|
 |**Original**|https://discord.com/channels/1042924100760391710/1110625554476040323/1131087668416098375|
 
