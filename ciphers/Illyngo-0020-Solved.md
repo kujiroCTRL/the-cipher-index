@@ -12,7 +12,7 @@
 
 <details>
 <summary>Solution</summary>
-Each couple of number represent a letter in tap code
+Each couple of numbers represent a letter in tap code
 
 Using the table
 
