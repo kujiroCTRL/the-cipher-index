@@ -11,7 +11,7 @@ The following table contains the participants' names as well as the number they 
 |Number	|Name		|
 |---	|---		|
 |Ace	|		|
-|2	|		|
+|2	|Reine		|
 |3	|Reine		|
 |4	|veggie		|
 |5	|		|
