@@ -10,17 +10,17 @@ The following table contains the participants' names as well as the number they 
 
 |Number	|Name		|
 |---	|---		|
-|Ace	|		|
+|Ace	|adamm		|
 |2	|Reine		|
 |3	|Reine		|
 |4	|veggie		|
 |5	|		|
 |6	|		|
-|7	|		|
+|7	|Ipols		|
 |8	|Thalasso	|
 |9	|jhjhshlad	|
 |10	|Illyngo	|
-|Jack	|		|
+|Jack	|Atelos		|
 |Queen	|CapnStarisa	|
 |King	|redmagic	|
-|Joker	|		|
+|Joker	|Thalasso	|
