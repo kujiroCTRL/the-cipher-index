@@ -1,7 +1,7 @@
 |Field|Value|
 |---|---|
 |**Name**|Code #02 from the controllist whale|
-|**Author**|Thalasso (Casa)|
+|**Author**|Thalassa (Casa)|
 |**Difficulty**|⭐⭐|
 |**Solved**|Yes|
 |**Original**|https://discord.com/channels/1042924100760391710/1152913835343216642|
