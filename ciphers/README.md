@@ -44,8 +44,7 @@ I've included them in this `README.md` to keep track of the number of ciphers ma
 If you're already memeber of the CA Discord community you may open any of these links and you'll be redirected to the corresponding post
 |Cipher number	|Link                                                                                       |
 |---            |---                                                                                        |
-|27             |https://discord.com/channels/1042924100760391710/1153424558414643290                       |
-|28             |https://discord.com/channels/1042924100760391710/1153101579210207293/1153394222515372053	|
+|28             |https://discord.com/channels/1042924100760391710/1153101579210207293/1153394222515372053	  |
 |29             |https://discord.com/channels/1042924100760391710/1153433804321599558                       |
 |30             |https://discord.com/channels/1042924100760391710/1153101579210207293/1153689377910837299   |
 |31             |https://discord.com/channels/1042924100760391710/1153780349575368816                       |
