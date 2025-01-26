@@ -100,3 +100,9 @@ If you're already memeber of the CA Discord community you may open any of these 
 |81             |https://discord.com/channels/1042924100760391710/1179282907626479656                       |
 |82             |https://discord.com/channels/1042924100760391710/1189382646392959036                       |
 |83             |https://discord.com/channels/1042924100760391710/1190401407682101279                       |
+|84             |https://discord.com/channels/1042924100760391710/1191426084571467847                       |
+|85             |https://discord.com/channels/1042924100760391710/1208080668135923732                       |
+|86             |https://discord.com/channels/1042924100760391710/1295758412843581440                       |
+|87             |https://discord.com/channels/1042924100760391710/1295893695652040805                       |
+|88             |https://discord.com/channels/1042924100760391710/1296070140621750312                       |
+|89             |https://discord.com/channels/1042924100760391710/1332934355273646090                       |
